@@ -1,0 +1,1 @@
+Jenis kasus dalam pemrograman adalah berbagai praktik penamaan atau nomenklatur yang diterapkan pada pengenal seperti variabel, fungsi, kelas, dan konstanta . Kemampuan kode untuk dibaca dan dikelola dapat dipengaruhi oleh pemilihan jenis kasus.5 Jun 2023
